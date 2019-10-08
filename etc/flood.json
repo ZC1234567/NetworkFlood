@@ -1,0 +1,16 @@
+{
+	//处理模块
+	"PROCESSOR": {
+		//服务端ip
+		"SERVER_IP": "192.168.125.131",
+		//业务端口
+		"SERVER_PORT": 8080,
+		//缓冲区最大长度
+		"QUEUE_MAX_SIZE": 1000
+	},
+	//规则模块
+	"TASKMGR": {
+		//站点最大阈值
+		"THREAD_NUM" : 7 
+	}
+}
